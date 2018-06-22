@@ -1,0 +1,6 @@
+name: MindBattleNumber
+version: 1.0-SNAPSHOT
+main: man10.red.mindbattlenumber.MindBattleNumber
+
+commands:
+  mbn:

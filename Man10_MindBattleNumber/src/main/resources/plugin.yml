@@ -1,0 +1,6 @@
+name: MindBattleNumber
+version: ${project.version}
+main: man10.red.mindbattlenumber.MindBattleNumber
+
+commands:
+  mbn:
